@@ -1,7 +1,7 @@
-import Calculator from "../components/Calculator";
+import TaxCalculator from "@/components/TaxCalculator";
 
 const Index = () => {
-  return <Calculator />;
+  return <TaxCalculator />;
 };
 
 export default Index;
